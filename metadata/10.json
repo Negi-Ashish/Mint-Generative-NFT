@@ -1,0 +1,35 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmP3FVh1JpQfpahkLMMwVToCuT8jmJggDT3BHrgXkSgQXi/10.png",
+    "tokenId": 10,
+    "name": "NFT_CREATOR 10",
+    "attributes": [
+        {
+            "trait_type": "Face",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "No Earring"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Hipster"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Down Hair"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Black Lipstick"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Nose"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Cigarette"
+        }
+    ]
+}

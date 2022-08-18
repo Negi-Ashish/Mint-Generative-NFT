@@ -1,0 +1,35 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmP3FVh1JpQfpahkLMMwVToCuT8jmJggDT3BHrgXkSgQXi/8.png",
+    "tokenId": 8,
+    "name": "NFT_CREATOR 8",
+    "attributes": [
+        {
+            "trait_type": "Face",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Right Earring"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Small"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Down Hair"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Big Smile"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Nose"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Cigarette"
+        }
+    ]
+}

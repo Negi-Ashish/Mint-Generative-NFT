@@ -1,0 +1,35 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmP3FVh1JpQfpahkLMMwVToCuT8jmJggDT3BHrgXkSgQXi/6.png",
+    "tokenId": 6,
+    "name": "NFT_CREATOR 6",
+    "attributes": [
+        {
+            "trait_type": "Face",
+            "value": "White"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "No Earring"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Emo Hair"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Purple Lipstick"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Nose"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Cigarette"
+        }
+    ]
+}

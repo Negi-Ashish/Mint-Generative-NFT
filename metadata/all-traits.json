@@ -1,0 +1,102 @@
+[
+    {
+        "Face": "White",
+        "Ears": "No Earring",
+        "Eyes": "Regular",
+        "Hair": "Thin Hair",
+        "Mouth": "Teeth Smile",
+        "Nose": "Nose",
+        "Accessories": "Sigaar",
+        "tokenId": 1
+    },
+    {
+        "Face": "White",
+        "Ears": "Left Earring",
+        "Eyes": "Regular",
+        "Hair": "Mohawk",
+        "Mouth": "Black Lipstick",
+        "Nose": "Nose Ring",
+        "Accessories": "Cigarette",
+        "tokenId": 2
+    },
+    {
+        "Face": "Black",
+        "Ears": "No Earring",
+        "Eyes": "Regular",
+        "Hair": "Orange Hair",
+        "Mouth": "Smile",
+        "Nose": "Nose",
+        "Accessories": "Cigarette",
+        "tokenId": 3
+    },
+    {
+        "Face": "Black",
+        "Ears": "Right Earring",
+        "Eyes": "Hipster",
+        "Hair": "Thin Hair",
+        "Mouth": "Smile",
+        "Nose": "Nose",
+        "Accessories": "Cigarette",
+        "tokenId": 4
+    },
+    {
+        "Face": "White",
+        "Ears": "Right Earring",
+        "Eyes": "Regular",
+        "Hair": "Caret Hair",
+        "Mouth": "Red Lipstick",
+        "Nose": "Nose Ring",
+        "Accessories": "Cigarette",
+        "tokenId": 5
+    },
+    {
+        "Face": "White",
+        "Ears": "No Earring",
+        "Eyes": "Regular",
+        "Hair": "Emo Hair",
+        "Mouth": "Purple Lipstick",
+        "Nose": "Nose",
+        "Accessories": "Cigarette",
+        "tokenId": 6
+    },
+    {
+        "Face": "White",
+        "Ears": "Left Earring",
+        "Eyes": "Regular",
+        "Hair": "Caret Hair",
+        "Mouth": "Black Lipstick",
+        "Nose": "Nose",
+        "Accessories": "Sigaar",
+        "tokenId": 7
+    },
+    {
+        "Face": "Black",
+        "Ears": "Right Earring",
+        "Eyes": "Small",
+        "Hair": "Down Hair",
+        "Mouth": "Big Smile",
+        "Nose": "Nose",
+        "Accessories": "Cigarette",
+        "tokenId": 8
+    },
+    {
+        "Face": "Black",
+        "Ears": "No Earring",
+        "Eyes": "Regular",
+        "Hair": "Bubble Hair",
+        "Mouth": "Red Lipstick",
+        "Nose": "Nose",
+        "Accessories": "Cigarette",
+        "tokenId": 9
+    },
+    {
+        "Face": "Black",
+        "Ears": "No Earring",
+        "Eyes": "Hipster",
+        "Hair": "Down Hair",
+        "Mouth": "Black Lipstick",
+        "Nose": "Nose",
+        "Accessories": "Cigarette",
+        "tokenId": 10
+    }
+]
